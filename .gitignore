@@ -24,9 +24,5 @@ Thumbs.db
 *.so
 *.dll
 
-# Gesture images or generated files
-*.png
-*.jpg
-
 # Ignore system-specific files
 *.swp
